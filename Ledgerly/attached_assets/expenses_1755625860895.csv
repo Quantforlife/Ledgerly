@@ -1,0 +1,31 @@
+Expense_ID,Category,Amount,Date,Notes
+201,Rent,80000,2025-01-01,Store rent
+202,Electricity,12500,2025-01-01,Power bill
+203,Water + Cleaning,3200,2025-01-01,Maintenance
+204,Transport,8000,2025-01-01,Delivery vans
+205,Advertising,15000,2025-01-01,Marketing
+206,Miscellaneous,5500,2025-01-01,Repairs
+207,Rent,80000,2025-01-08,Store rent
+208,Electricity,12500,2025-01-08,Power bill
+209,Water + Cleaning,3200,2025-01-08,Maintenance
+210,Transport,8000,2025-01-08,Delivery vans
+211,Advertising,15000,2025-01-08,Marketing
+212,Miscellaneous,5500,2025-01-08,Repairs
+213,Rent,80000,2025-01-15,Store rent
+214,Electricity,12500,2025-01-15,Power bill
+215,Water + Cleaning,3200,2025-01-15,Maintenance
+216,Transport,8000,2025-01-15,Delivery vans
+217,Advertising,15000,2025-01-15,Marketing
+218,Miscellaneous,5500,2025-01-15,Repairs
+219,Rent,80000,2025-01-22,Store rent
+220,Electricity,12500,2025-01-22,Power bill
+221,Water + Cleaning,3200,2025-01-22,Maintenance
+222,Transport,8000,2025-01-22,Delivery vans
+223,Advertising,15000,2025-01-22,Marketing
+224,Miscellaneous,5500,2025-01-22,Repairs
+225,Rent,80000,2025-01-29,Store rent
+226,Electricity,12500,2025-01-29,Power bill
+227,Water + Cleaning,3200,2025-01-29,Maintenance
+228,Transport,8000,2025-01-29,Delivery vans
+229,Advertising,15000,2025-01-29,Marketing
+230,Miscellaneous,5500,2025-01-29,Repairs

@@ -1,0 +1,7 @@
+
+item,qty,unit_price,total,customer,date
+Sugar,2,50,100,John,2025-01-15
+Rice,1,60,60,Mary,2025-01-15
+Tea,5,10,50,Bob,2025-01-16
+Flour,3,40,120,Alice,2025-01-16
+Oil,1,150,150,Charlie,2025-01-17

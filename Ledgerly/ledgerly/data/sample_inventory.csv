@@ -1,0 +1,12 @@
+
+item,qty,threshold,unit_cost
+Sugar,100,10,40.00
+Rice,50,5,110.00
+Tea,200,20,12.00
+Coffee,75,10,70.00
+Milk,80,15,20.00
+Bread,60,12,25.00
+Eggs,150,30,6.00
+Butter,30,6,120.00
+Cheese,25,4,180.00
+Yogurt,100,25,8.00

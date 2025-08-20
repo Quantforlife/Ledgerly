@@ -1,0 +1,10 @@
+
+streamlit==1.38.0
+pandas==2.2.2
+plotly==5.22.0
+sqlalchemy==2.0.31
+pytest==8.3.2
+streamlit-lottie==0.0.5
+streamlit-option-menu==0.3.6
+openpyxl==3.1.2
+xlsxwriter==3.1.9

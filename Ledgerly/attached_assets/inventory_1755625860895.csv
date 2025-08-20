@@ -1,0 +1,11 @@
+Item_ID,Item_Name,Category,Qty,Threshold,Unit_Cost,Last_Updated
+301,Rice (5kg),Grocery,224,43,280,2025-01-15
+302,Wheat Flour,Grocery,151,26,200,2025-01-25
+303,Sugar (1kg),Grocery,135,40,40,2025-01-15
+304,Cooking Oil,Grocery,170,25,160,2025-01-03
+305,Milk (1L),Dairy,213,23,45,2025-01-13
+306,Soap (100g),Personal Care,106,22,25,2025-01-08
+307,Shampoo (200ml),Personal Care,212,28,120,2025-01-26
+308,Biscuits,Snacks,182,22,30,2025-01-03
+309,Cold Drinks,Beverages,91,45,35,2025-01-09
+310,Tea (500g),Beverages,223,46,180,2025-01-04
